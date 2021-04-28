@@ -10,6 +10,7 @@ h1{
 h2{
     text-align:center;
 }
+
 h3{
 padding-left:.5rem;
 text-align:center;
@@ -64,14 +65,14 @@ nav a {
     padding-right: 1rem;
     cursor: pointer;
 }
-table{
+table, th, td {
     width: 360px;
     margin-bottom:.5rem;
     border-color:#57606f;
-    border:5px;
-    cellspacing:0px;
-
+    border-spacing: 0px;
+    border: 2px solid #57606f;
 }
+
 
 
 /* MEDIA QUERY DESKTOP */
