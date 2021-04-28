@@ -65,7 +65,12 @@ nav a {
     cursor: pointer;
 }
 table{
+    width: 360px;
     margin-bottom:.5rem;
+    border-color:#57606f;
+    border:5px;
+    cellspacing:0px;
+
 }
 
 
